@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11915348)
  Web Lab - Spring Data with MVC
  ====================
 In this lab, we will develop a web application using Spring Data with MVC. We will use Spring Data JPA to store and retrieve data in a relational database. We will use Spring MVC to handle HTTP requests and render HTML views. We will use Thymeleaf to render HTML views. We will use Spring Boot to develop the web application.
